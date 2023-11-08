@@ -1,7 +1,7 @@
 # YourCinema
 
 # Vue 2 Tesk Task
-The test task was performed using: Vue 2 + Options Api + Axios + indexedDB for Auth + own design.
+The test task was performed using: Vue 2 + Options Api + Axios + TMDB + indexedDB for Auth + own design.
 
 Just write:
 ```
