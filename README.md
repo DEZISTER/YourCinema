@@ -1,6 +1,4 @@
-# YourCinema
-
-# Vue 2 Tesk Task
+# YourCinema (Vue 2 Test Task)
 The test task was performed using: Vue 2 + Options Api + Axios + TMDB + indexedDB for Auth + own design.
 
 Just write:
